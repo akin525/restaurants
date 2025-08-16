@@ -16,6 +16,7 @@ First, test the connection to get Pusher configuration:
 GET /api/print-jobs/test-connection?branch={branch_id}
 ```
 
+
 **Response:**
 ```json
 {

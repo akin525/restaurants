@@ -32,7 +32,6 @@ public/user-uploads/public/hot
 ngrok
 /bootstrap/cache/*
 froiden-verify/
-*.zip
 .DS_Store
 resources/views/sections/custom_script.blade.php
 demo_db_copy.sql
