@@ -28,16 +28,11 @@ public/user-uploads/public/hot
 /public/qrcodes/*
 !public/qrcodes/.htaccess
 
-/storage/installed
 ngrok
-/bootstrap/cache/*
 froiden-verify/
 .DS_Store
-resources/views/sections/custom_script.blade.php
 demo_db_copy.sql
 database/maxmind/
-public/css/app-custom.css
-public/css/theme-custom.css
 
 lang/*
 !lang/eng/
